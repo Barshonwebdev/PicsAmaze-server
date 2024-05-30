@@ -1,0 +1,1 @@
+Server repo for PicsAmaze webapp
